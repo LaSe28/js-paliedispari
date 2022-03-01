@@ -1,0 +1,18 @@
+html{
+    font-family: helvetica;
+}
+
+body{
+    text-align: center;
+    background-color: navy;
+    color: white;
+}
+
+.hidden{
+    display: none;
+}
+
+.show{
+    display: inline-block;
+}
+
